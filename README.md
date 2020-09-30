@@ -5,7 +5,7 @@ Hello there!
 Are you worried about possible losses of your source code in the project folder?
 Do you make, as myself, so many stupid errors and wrongly delete/modify src code?
 Do you think could be a good idea to have a local version of your code?
-If yes, this is the email for you!
+If yes, this is the repository for you!
 
 This post is meant to be useful to my colleagues in Glasgow. 
 This code performs automatic weekly full backups (not incremental nor sequential) of source codes only, 
