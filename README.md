@@ -22,9 +22,11 @@ Being backup only src code, the size is very small ~40MB per backup, which means
 First, you need:
 
 * a local PC with:
-* space to store data;
-* `python3`;
-* access to project folders;
+
+  * space to store data;
+  * `python3`;
+  * access to project folders;
+  
 * an email address as sender (optional).
 
 Second, you need to download the script called `backup_srcs.py` and modify the part `Paths and Constants`, specifying:
