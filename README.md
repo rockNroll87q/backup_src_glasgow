@@ -7,6 +7,10 @@ Do you make, as myself, so many stupid errors and wrongly delete/modify src code
 Do you think could be a good idea to have a local version of your code?
 If yes, this is the repository for you!
 
+<p align="center">
+<img src="https://trinirant.files.wordpress.com/2018/02/want.gif" width="200" />  
+</p>
+
 This post is meant to be useful to my colleagues in Glasgow. 
 This code performs automatic weekly full backups (not incremental nor sequential) of source codes only, 
 from my project folders (grid) to a local folder (i.e., in my desktop), 
