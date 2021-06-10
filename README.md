@@ -41,7 +41,7 @@ Path_to_exclude = ['/analyse/Project0204/packages/']
 HOST = 'smtp.gmail.com'
 USER = 'your_account@gmail.com'
 PWD = 'you_PSW'
-TO = 'Michele.Svanera@glasgow.ac.uk'
+TO = 'your_mail'
 ~~~
 
 Finally, to schedule the weekly task, we use cron. Take a look [here](https://crontab.guru/) on how to specify the scheduling.
