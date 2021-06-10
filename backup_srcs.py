@@ -57,7 +57,7 @@ Path_to_exclude = ['/analyse/Project0204/packages/']    # those folders are too 
 HOST = 'smtp.gmail.com'
 USER = 'your_account@gmail.com'
 PWD = 'you_PSW'
-TO = 'Michele.Svanera@glasgow.ac.uk'
+TO = 'your_mail'
 
 
 ################################################################################################################
